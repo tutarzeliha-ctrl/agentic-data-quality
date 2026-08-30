@@ -1,5 +1,12 @@
 # 🤖 Agentic Data Quality & Observability Platform
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Groq-API-orange?style=for-the-badge&logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>
+
 An enterprise-grade autonomous data observability platform built with **Streamlit**, designed for real-time pipeline monitoring, AI-powered root-cause analysis, data lineage visualization, automated self-healing, and webhook alerting.
 
 ## 📸 Platform UI Preview
