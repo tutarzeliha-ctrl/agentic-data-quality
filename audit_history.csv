@@ -1,0 +1,2 @@
+timestamp,anomaly,root_cause,status
+2026-08-30 13:43:25,Sudden drop in active users: 1200 (Expected > 2000) | High null user ID rate: 35.0% (Expected < 5%),Analyzed by AI Agent,Pending Remediation
