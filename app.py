@@ -58,7 +58,7 @@ with tab2:
                     
                     chat_completion = client.chat.completions.create(
                         messages=[{"role": "user", "content": prompt}],
-                        model="llama-3.3-70b-versatile",
+                        model="llama3-8b-8192",
                     )
                     
                     ai_response = chat_completion.choices[0].message.content
