@@ -56,9 +56,9 @@ with tab2:
                     Provide a concise root-cause analysis and a corrective SQL action plan or code fix formatted in clear markdown sections.
                     """
                     
-                    cchat_completion = client.chat.completions.create(
+                    chat_completion = client.chat.completions.create(
                         messages=[{"role": "user", "content": prompt}],
-                        model="llama-3.3-70b-versatile",
+                        model="openai/gpt-oss-120b",
                     )
                     
                     ai_response = chat_completion.choices[0].message.content
