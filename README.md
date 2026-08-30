@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-data-quality.streamlit.app)
+
 An enterprise-grade autonomous data observability platform built with **Streamlit**, designed for real-time pipeline monitoring, AI-powered root-cause analysis, data lineage visualization, automated self-healing, and webhook alerting.
 
 ## 📸 Platform UI Preview
